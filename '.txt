@@ -1,16 +1,16 @@
 [{
-        "msg": "Please stop"
+        "msg": "Stop it"
     },
 
     {
-        "msg": "Stop, I'm angry"
+        "msg": "Again..?"
     },
 
     {
-        "msg": "Stop now, you will regret it."
+        "msg": "You are gonna regret it."
     },
 
     {
-        "msg": "Ok touch me again..."
+        "msg": "Ok touch me one more time..."
     }
 ]
