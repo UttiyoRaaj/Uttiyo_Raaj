@@ -1,0 +1,17 @@
+[
+    {
+        "msg": "Stop it"
+    },
+
+    {
+        "msg": "Again..?"
+    },
+
+    {
+        "msg": "You are gonna regret it."
+    },
+
+    {
+        "msg": "Ok touch me one more time..."
+    }
+]
